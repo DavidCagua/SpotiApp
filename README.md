@@ -6,6 +6,8 @@ de spotify para reproducir musica bajo demanda y desplegar su uso en diferentes 
 Es una SPA (Single Page Application) estilizada con bootstrap 4, el usuario puede buscar sus artistas favoritos 
 o canciones y reproducir la musica deseada.
 
+Para su uso es necesario contar con un token de Spotify.
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
